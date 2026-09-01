@@ -18,15 +18,15 @@ Proyek ini bertujuan untuk:
 ## 📊 Dashboard Pages
 
 ### 🏠 Home
-
+![Home Dashboard](images/home.png)
 Halaman utama yang berfungsi sebagai landing page dan navigasi menuju halaman analisis dashboard.
 
 ### 💰 Income Analysis
-
+![Income Dashboard](images/income.png)
 Halaman yang menyajikan analisis terkait pendapatan dari bisnis DVD Rental melalui visualisasi data interaktif.
 
 ### 🎞️ Genre Analysis
-
+![Genre Dashboard](images/genre.png)
 Halaman yang menampilkan analisis data berdasarkan kategori atau genre film untuk membantu memahami distribusi dan performa masing-masing genre.
 
 ---
