@@ -52,5 +52,3 @@ Untuk melihat dashboard secara lengkap dan interaktif, silakan membuka file ters
 ## 👤 Author
 
 **Alfina Mazidatul Mufidah**
-
-Information Systems Graduate | Aspiring Data Analyst
